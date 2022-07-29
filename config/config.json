@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "fauzi",
+      "password": "password",
+      "database": "db_BinarCC7",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "fauzi",
+      "password": "password",
+      "database": "db_BinarCC7",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "fauzi",
+      "password": "password",
+      "database": "db_BinarCC7",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
+  
